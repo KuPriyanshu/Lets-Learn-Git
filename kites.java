@@ -2,7 +2,7 @@ class kites
 {
     public static void main(String[] args) 
     {
-        //printing it 
+        //print
         System.out.println ("Hello, World!");
     }
 }
